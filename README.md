@@ -26,7 +26,7 @@ In this repository, you'll find the source code for my personal website, where I
 
 If you have questions, suggestions, or just want to chat about web development or blockchain, don't hesitate to get in touch with me through:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)]([(https://www.linkedin.com/in/maria-fernanda-mamone-95308ba6/?)](https://www.linkedin.com/in/maria-fernanda-mamone-95308ba6/?))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/maria-fernanda-mamone-95308ba6/?))
 </br>
 [![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=mariafrenchitas%40gmail.com&labelColor=black&color=%23EA4335)](mailto:mariafrenchitas@gmail.com)
 
