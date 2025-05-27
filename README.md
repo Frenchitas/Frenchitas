@@ -4,7 +4,7 @@ Here you'll find the source code of my personal website, where I showcase my pro
 I'm passionate about creating innovative web experiences and continuously exploring the ever-evolving world of Full Stack development.
 
 🦷 I am a dentist since 2007, with over 15 years of experience in the healthcare field.  
-💻 Since 2022, I have been expanding my skill set by pursuing a Master's degree in Full Stack Development at ConquerBlocks Academy, specializing in WordPress development.  
+💻 Since 2022, I have been expanding my skill set by pursuing a Master's degree in Full Stack Development at Conquer Blocks Academy, specializing in WordPress development.  
 
 ✨ I create custom-tailored **WordPress** websites for individuals and businesses, combining functionality with clean, user-friendly design.
 
