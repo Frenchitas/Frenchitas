@@ -20,6 +20,7 @@ I'm passionate about creating innovative web experiences and continuously explor
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black&color=%23007ACC)
 
 ### 🔧 Backend Technologies:
+[![WordPress](https://img.shields.io/badge/WordPress-white?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=black&color=%2321759B)]()
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=%233776AB)
 ![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django&logoColor=white&labelColor=black&color=%23092E20)
 ![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black&color=%23339933)
@@ -37,11 +38,13 @@ I'm passionate about creating innovative web experiences and continuously explor
 
 ## 📫 Contact Me
 
-If you have questions, suggestions, or just want to chat about web development or blockchain, don’t hesitate to get in touch with me through:
+If you have questions, suggestions, or just want to chat about web development, don’t hesitate to get in touch with me through:
 
-[![PERSONAL LINKEDIN](https://img.shields.io/badge/PERSONAL%20LINKEDIN-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=%230A66C2)](https://www.linkedin.com/in/maria-fernanda-a385ab317)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-a385ab317)
+[![www.linkedin.com/in/maria-fernanda-a385ab317](https://img.shields.io/badge/www.linkedin.com%2Fin%2Fmaria--fernanda--a385ab317-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-a385ab317)
 
-[![PERSONAL EMAIL](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=mariafrenchitas%40gmail.com&labelColor=black&color=%23EA4335)](mailto:mariafrenchitas@gmail.com)
+[![PERSONAL EMAIL](https://img.shields.io/badge/PERSONAL%20EMAIL-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariafrenchitas@gmail.com)
+[![mariafrenchitas@gmail.com](https://img.shields.io/badge/mariafrenchitas%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariafrenchitas@gmail.com)
 
 ---
 
