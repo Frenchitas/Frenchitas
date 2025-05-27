@@ -39,7 +39,7 @@ I'm passionate about creating innovative web experiences and continuously explor
 
 If you have questions, suggestions, or just want to chat about web development or blockchain, don't hesitate to get in touch with me through:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/mar%C3%ADa-fernanda-a385ab317/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maria-fernanda-a385ab317)
 
 [![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=mariafrenchitas%40gmail.com&labelColor=black&color=%23EA4335)](mailto:mariafrenchitas@gmail.com)
 
