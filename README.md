@@ -23,7 +23,7 @@ I'm passionate about creating innovative web experiences and continuously explor
 [![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=%233776AB)]()  
 [![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django&logoColor=white&labelColor=black&color=%23092E20)]()  
 [![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black&color=%23339933)]()  
-[![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black&color=%23F80000)]()  
+[![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&color=%23ED8B00)]()
 [![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]()
 
 ### 🖼️ Front-End Frameworks:
