@@ -1,51 +1,57 @@
-## ⚡ Welcome to my repository!
+<p align="center">
+  <img src="https://your-logo-url.com/logo.png" alt="Logo" width="120"/>
+</p>
 
-Here you'll find the source code of my personal website, where I showcase my projects, skills, and journey as a developer.  
-I'm passionate about creating innovative web experiences and continuously exploring the ever-evolving world of Full Stack development.
+# 💜 María Fernanda Mamone
 
-🦷 I am a dentist since 2007, with over 15 years of experience in the healthcare field.  
-💻 Since 2022, I have been expanding my skill set by pursuing a Master's degree in Full Stack Development at Conquer Blocks Academy, specializing in WordPress development.  
+## 🇪🇸 ¡Hola!
 
-✨ I create custom-tailored **WordPress** websites for individuals and businesses, combining functionality with clean, user-friendly design.
+Soy desarrolladora web en formación con base en Argentina. Estoy combinando mi experiencia en odontología con mi pasión por el desarrollo front-end y WordPress. Este perfil forma parte del programa **#YoPuedoProgramar** de Frenchitas.
 
----
-
-## 🛠️ Technologies Used
-
-### 🌐 Web Development:
-![HTML](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)
-![CSS](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=%230074BC)
-![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)
-![Sass](https://img.shields.io/badge/SASS-white?style=for-the-badge&logo=sass&logoColor=white&labelColor=black&color=%23CC6699)
-![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black&color=%23007ACC)
-
-### 🔧 Backend Technologies:
-[![WordPress](https://img.shields.io/badge/WordPress-white?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=black&color=%2321759B)]()
-![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=%233776AB)
-![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django&logoColor=white&labelColor=black&color=%23092E20)
-![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black&color=%23339933)
-![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&color=%23ED8B00)
-![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)
-
-### 💻 Front-End Frameworks:
-![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=white&labelColor=black&color=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-white?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=black&color=%2341B883)
-![Angular](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=white&labelColor=black&color=%23DD0031)
-![Astro](https://img.shields.io/badge/Astro-white?style=for-the-badge&logo=astro&logoColor=white&labelColor=black&color=%23FF7E33)
-![Streamlit](https://img.shields.io/badge/Streamlit-white?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=black&color=%23FF4B4B)
+- 👩‍⚕️ Odontóloga desde 2007  
+- 👩‍💻 Estudiante de desarrollo web full stack desde 2022  
+- 🎓 WordPress, HTML, CSS, Sass, Git y más  
+- 🎯 Objetivo: Crear sitios accesibles, modernos y funcionales  
 
 ---
 
-## 📫 Contact Me
+## 🇬🇧 Hello!
 
-If you have questions, suggestions, or just want to chat about web development, don’t hesitate to get in touch with me through:
+I’m a web developer in training based in Argentina. I'm combining my background in dentistry with my new passion for front-end development and WordPress. This profile is part of the **#YoPuedoProgramar** program by Frenchitas.
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-a385ab317)
-[![www.linkedin.com/in/maria-fernanda-a385ab317](https://img.shields.io/badge/www.linkedin.com%2Fin%2Fmaria--fernanda--a385ab317-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-a385ab317)
-
-[![PERSONAL EMAIL](https://img.shields.io/badge/PERSONAL%20EMAIL-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariafrenchitas@gmail.com)
-[![mariafrenchitas@gmail.com](https://img.shields.io/badge/mariafrenchitas%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariafrenchitas@gmail.com)
+- 👩‍⚕️ Dentist since 2007  
+- 👩‍💻 Full stack development student since 2022  
+- 🎓 WordPress, HTML, CSS, Sass, Git and more  
+- 🎯 Goal: Build accessible, modern and functional websites  
 
 ---
 
-I hope you enjoy exploring my repository! Thanks for visiting! 👋
+## 🔧 Tech Stack / Tecnologías
+
+**Frontend**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**WordPress & Builders**  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+## 🌐 Portfolio
+
+🔗 [Ver sitio en GitHub Pages](https://frenchitas.github.io/mfmamone.github.io/)
+
+---
+
+## 📫 Contacto / Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maría-fernanda-a385ab317)
