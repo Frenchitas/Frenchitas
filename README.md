@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://your-logo-url.com/logo.png" alt="Logo" width="120"/>
-</p>
+
 
 # 💜 María Fernanda Mamone
 
