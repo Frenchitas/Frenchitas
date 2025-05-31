@@ -2,7 +2,7 @@
 
 # 💜 María Fernanda Mamone
 
-## 🇦🇷 ¡Hola!
+## ¡Hola!
 
 Soy desarrolladora web en formación con base en Argentina. Estoy combinando mi experiencia en odontología con mi pasión por el desarrollo front-end y WordPress. Este perfil forma parte del programa **#YoPuedoProgramar** de Frenchitas.
 
@@ -13,7 +13,7 @@ Soy desarrolladora web en formación con base en Argentina. Estoy combinando mi 
 
 ---
 
-## 🇬🇧 Hello!
+## Hello!
 
 I’m a web developer in training based in Argentina. I'm combining my background in dentistry with my new passion for front-end development and WordPress. This profile is part of the **#YoPuedoProgramar** program by Frenchitas.
 
